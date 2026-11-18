@@ -96,4 +96,6 @@ Connect using the installation’s configured credentials. Call `service_status`
 
 ## Support
 
+You can share the [public StoryRoom documentation](https://github.com/dansasser/StoryRoom#readme) with anyone, including people who haven't signed in.
+
 StoryRoom is maintained by Gorombo. For a reproducible bug or configuration question, use the [public issue tracker](https://github.com/dansasser/StoryRoom/issues). Include the host, the action you took, and the result you expected. Use a fictional example when sharing story records.
